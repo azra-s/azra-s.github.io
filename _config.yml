@@ -3,3 +3,7 @@ logo: /images/WhatsApp%20G%C3%B6rsel%202025-02-26%20saat%2023.18.10_1a85f687.jpg
 description: My Portofilo
 show_downloads: true
 theme: jekyll-theme-minimal
+minima:
+  social_links:
+    Linkedn: https://www.linkedin.com/in/azra-selvitop-a52869223/
+    Instagram: https://www.instagram.com/azra.selvitop/
