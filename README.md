@@ -1,4 +1,4 @@
-# Electronics and Computer Enginnering 3rd Year Student 
+# Electronics and Computer Enginnering Student 
 
 ### Education 
 Wroclaw University of Science and Technology 
