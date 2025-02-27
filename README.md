@@ -5,6 +5,12 @@
 ## Education 
 - B.S., ECE | Wroclaw University of Science and Technology
 
+## Socials
+- Linkedn| [Profile Link](https://www.linkedin.com/in/azra-selvitop-a52869223/)
+- Instagram| [Profile Link](https://www.instagram.com/azra.selvitop/)
+
+
+
 ## Projects
 ### Subject: Optoelectronics - Project Chronometer 
 [Report Link](project reports/ProjectChronometer.pdf)
@@ -19,6 +25,3 @@
 ![explanation](images/ai_cv.png)
 
 
-## Socials
-- Linkedn | [Profile Link](https://www.linkedin.com/in/azra-selvitop-a52869223/)
-- Instagram | [Profile Link](https://www.instagram.com/azra.selvitop/)
