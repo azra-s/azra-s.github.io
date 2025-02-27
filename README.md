@@ -17,3 +17,8 @@
 ### Subject: AI and Computer Vision - Traffic Light and Sign Recognition for Autonomous Vehicles
 [Report Link](project reports/AInCV_project_final_report.pdf)
 ![explanation](images/ai_cv.png)
+
+
+## Socials
+- Linkedn | [Profile Link](https://www.linkedin.com/in/azra-selvitop-a52869223/)
+- Instagram | [Profile Link](https://www.instagram.com/azra.selvitop/)
